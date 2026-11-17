@@ -1,0 +1,20 @@
+{
+  "author_names": "Simon Billinge, Caden Myers",
+  "author_emails": "sbillinge@ucsb.edu, cjm2304@columbia.edu",
+  "maintainer_names": "Simon Billinge, Caden Myers",
+  "maintainer_emails": "sbillinge@ucsb.edu, cjm2304@columbia.edu",
+  "maintainer_github_usernames": "sbillinge",
+  "contributors": "Caden Myers and diffpy.saf contributors",
+  "project_name": "diffpy.saf",
+  "license_holders": "Contributors to diffpy.saf",
+  "github_username_or_orgname": "diffpy",
+  "github_repo_name": "diffpy.saf",
+  "conda_pypi_package_dist_name": "diffpy.saf",
+  "package_dir_name": "diffpy.saf",
+  "project_short_description": "Tool for extracting signals with specific rotational symmetries from noisy data at scale",
+  "project_keywords": "diffraction, PDF, X-ray, neutron",
+  "minimum_supported_python_version": "3.12",
+  "maximum_supported_python_version": "3.14",
+  "project_needs_c_code_compiled": "No",
+  "project_has_gui_tests": "No"
+}
